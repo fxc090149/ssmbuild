@@ -1,4 +1,4 @@
-package com.fang.controller;
+package com.fang.controller.Thread;
 class window implements Runnable{
     private int tickets = 100;
     public void run() {

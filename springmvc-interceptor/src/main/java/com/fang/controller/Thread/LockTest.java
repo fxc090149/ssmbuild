@@ -1,4 +1,4 @@
-package com.fang.controller;
+package com.fang.controller.Thread;
 
 import java.util.concurrent.locks.ReentrantLock;
 

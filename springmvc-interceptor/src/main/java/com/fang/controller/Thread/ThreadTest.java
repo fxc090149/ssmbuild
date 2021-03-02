@@ -1,4 +1,4 @@
-package com.fang.controller;
+package com.fang.controller.Thread;
 class myThread1 extends Thread{
     @Override
     public void run() {

@@ -1,4 +1,4 @@
-package com.fang.controller;
+package com.fang.controller.Redis;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;

@@ -1,4 +1,4 @@
-package com.fang.controller;
+package com.fang.controller.Thread;
 class A{
     public synchronized void foo(B b){
         System.out.println("当前线程名:" + Thread.currentThread().getName()
