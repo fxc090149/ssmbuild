@@ -11,6 +11,7 @@ import java.util.Set;
 public class redisT {
     public static void main(String[] args) {
     }
+
     @Test  //该方法是一种测试方法,可以不用main方法调用就可以测试出运行结果
     public void test(){
         //连接redis数据库,host为你的ip,port端口号
