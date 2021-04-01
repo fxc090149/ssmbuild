@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugs-IDEA">
+    <includeFilterFiles>
+      <filter file="C:\Users\fangxc31860\AppData\Roaming\JetBrains\IntelliJIdea2020.1\plugins\hs-rule\HsFindBugsCustomFilters\HsAllInclude.xml" enabled="true" />
+    </includeFilterFiles>
+  </component>
+</project>

@@ -1,0 +1,80 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AbstractClassShouldStartWithAbstractNamingRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AbstractMethodOrInterfaceMethodMustUseJavadocRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ArrayNamingShouldHaveBracketRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidCallStaticSimpleDateFormatRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidCommentBehindStatementRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidComplexConditionRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidConcurrentCompetitionRandomRule" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidDeeplyNestedIfStmtsRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidIsAndGetMethodExsitTogetherRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidManuallyCreateThreadRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidMissUseOfMathRandomRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidModifierInInterfaceFieldRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidModifierInInterfaceMethodRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidNegationOperatorRule" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidNewDateGetTimeRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidPatternCompileInMethodRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidReturnInFinallyRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidStartWithDollarAndUnderLineNamingRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AvoidUseTimerRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="BetweenSlashAndCommentExistSpaceRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="BooleanPropertyShouldNotStartWithIsRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CatchExceptionShouldBeHandledRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ClassCastExceptionWithSubListToArrayListRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ClassCastExceptionWithToArrayRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ClassMustHaveAuthorRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ClassMustHaveDateRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ClassNamingShouldBeCamelRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CollectionInitShouldAssignCapacityRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CommentsMustBeJavadocFormatRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ConcurrentExceptionWithModifyOriginSubListRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ConstantFieldShouldBeUpperCaseRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CountDownShouldInFinallyRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DontDefineVariableAndObjectInCircleRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DontModifyInForeachCircleRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DontUseFloatRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DontUseObjectVarargsRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DontUseTryStatementInCircleRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="EnumClassConstantShouldBeUpperCaseRule" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="EnumClassShouldEndWithEnumNamingRule" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="EnumConstantsMustHaveCommentRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="EqualsAvoidNullRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ExceptionClassShouldEndWithExceptionRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="HsAccessStaticViaInstance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="HsAvoidDeprecation" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="HsMapOrSetKeyShouldOverrideHashCodeEquals" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="LocalVariableUsePrimitiveTypeRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LowerCamelCaseVariableNamingRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MethodReturnWrapperTypeRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MethodShouldNotTooLongRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MissingOverride" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MultiParamMustHaveSpaceRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="NeedBraceRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="OverrideEqualsAndHashcodeMethodsRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PackageNamingRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PojoMustOverrideToStringRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PojoMustUsePrimitiveFieldRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PojoNoDefaultValueRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RemoveCommentedCodeRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ReservedWordMustExistSpaceRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ServiceLayerNamingRule" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ServiceMethodFieldsShouldPackageTypeRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ServiceOrDaoClassShouldEndWithImplRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SingleLineShouldNotTooLongRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="StringConcatRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SwitchStatementRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="TestClassShouldEndWithTestNamingRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ThreadLocalShouldRemoveRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ThreadLocalShouldStaticRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ThreadPoolCreationRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ThreadShouldSetNameRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UndefineMagicConstantRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UnsupportedExceptionWithModifyAsListRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UpperEllRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UseEntrySetTraverseMapRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="WrapperTypeEqualityRule" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
