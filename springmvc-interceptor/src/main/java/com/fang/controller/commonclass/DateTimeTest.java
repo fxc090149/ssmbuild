@@ -31,7 +31,7 @@ public class DateTimeTest {
     }
 
     /**
-     * SimpleDateFormat的使用
+     * SimpleDateFormat的使用 -------------------
      */
     @Test
     public void test2() throws ParseException {
