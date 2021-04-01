@@ -10,7 +10,7 @@ public class StringTest {
     }
 
     /**
-     * String:字符串 使用""表示
+     * String:字符串 使用""表示 ++++++++
      * 1.String声明为final的，不可被继承
      * 2.String实现了Serializable接口：表示字符串支持串行化。
      *          实现了Comparable接口：表示String可比较
